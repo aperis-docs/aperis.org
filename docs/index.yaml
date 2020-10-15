@@ -28,7 +28,18 @@ contents:
                   - type: text
                     text: >-
                       Components providing layout and styling of documentation
-                      pages: see aperis-doc-pages docs.
+                      pages: see 
+                  - type: link
+                    attrs:
+                      schemaID: web
+                      reference: 'https://aperis.org/aperis-doc-pages'
+                      hRef: 'https://aperis.org/aperis-doc-pages'
+                      title: ''
+                    content:
+                      - type: text
+                        text: aperis-doc-pages docs
+                  - type: text
+                    text: .
           - type: list_item
             content:
               - type: paragraph
@@ -37,7 +48,18 @@ contents:
                     text: >-
                       react-static plugin for building a static site using
                       Aperis documentation page components and documentation
-                      data you provide in YAML: see plugin docs.
+                      data you provide in YAML: see 
+                  - type: link
+                    attrs:
+                      schemaID: web
+                      reference: 'https://aperis.org/react-static-plugin/'
+                      hRef: 'https://aperis.org/react-static-plugin/'
+                      title: ''
+                    content:
+                      - type: text
+                        text: plugin docs
+                  - type: text
+                    text: .
           - type: list_item
             content:
               - type: paragraph
@@ -47,4 +69,15 @@ contents:
                       Paneron extension that allows authors to provide
                       documentation data, and simplifies automated static site
                       build setup through use of react-static and GitHub
-                      actions: see extension docs.
+                      actions: see 
+                  - type: link
+                    attrs:
+                      schemaID: web
+                      reference: 'https://aperis.org/paneron-extension/'
+                      hRef: 'https://aperis.org/paneron-extension/'
+                      title: ''
+                    content:
+                      - type: text
+                        text: Paneron extension docs
+                  - type: text
+                    text: .
