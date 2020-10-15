@@ -47,4 +47,4 @@ contents:
                       Paneron extension that allows authors to provide
                       documentation data, and simplifies automated static site
                       build setup through use of react-static and GitHub
-                      actions: see extension docs
+                      actions: see extension docs.
