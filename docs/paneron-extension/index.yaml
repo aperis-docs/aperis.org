@@ -1,3 +1,43 @@
 title: Paneron extension
 media: []
 redirectFrom: []
+contents:
+  doc:
+    type: doc
+    content:
+      - type: paragraph
+        content:
+          - type: text
+            text: >-
+              Aperis Paneron extension allows to author documentation page
+              structure and contents with a GUI, and to quickly set up
+              react-static + GHA integration for deploying the site.
+      - type: section
+        attrs:
+          id: getting-started
+        content:
+          - type: section_header
+            content:
+              - type: text
+                text: Getting started
+          - type: paragraph
+            content:
+              - type: text
+                text: 'First, make sure you have '
+              - type: link
+                attrs:
+                  schemaID: web
+                  reference: 'https://github.com/paneron/paneron/releases'
+                  hRef: 'https://github.com/paneron/paneron/releases'
+                  title: ''
+                content:
+                  - type: text
+                    text: the latest version of Paneron
+              - type: text
+                text: ' installed.'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  You can create an Aperis site by starting a repository in
+                  Paneron, and selecting Aperis site as repository type.
