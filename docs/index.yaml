@@ -1,3 +1,50 @@
 title: Welcome to Aperis!
 redirectFrom: []
 media: []
+summary:
+  doc:
+    type: doc
+    content:
+      - type: paragraph
+        content:
+          - type: text
+            text: >-
+              Aperis aims to make it easier to create documentation sites—like
+              this one.
+contents:
+  doc:
+    type: doc
+    content:
+      - type: paragraph
+        content:
+          - type: text
+            text: 'Aperis consists of three main parts:'
+      - type: bullet_list
+        content:
+          - type: list_item
+            content:
+              - type: paragraph
+                content:
+                  - type: text
+                    text: >-
+                      Components providing layout and styling of documentation
+                      pages: see aperis-doc-pages docs.
+          - type: list_item
+            content:
+              - type: paragraph
+                content:
+                  - type: text
+                    text: >-
+                      react-static plugin for building a static site using
+                      Aperis documentation page components and documentation
+                      data you provide in YAML: see plugin docs.
+          - type: list_item
+            content:
+              - type: paragraph
+                content:
+                  - type: text
+                    text: >-
+                      Paneron extension that allows authors to provide
+                      documentation data, and simplifies automated static site
+                      build setup through use of react-static and GitHub
+                      actions: see extension docs
