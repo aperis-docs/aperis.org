@@ -9,7 +9,7 @@ summary:
         content:
           - type: text
             text: >-
-              Aperis aims to make it easier to create documentation sites—like
+              Aperis aims to make it easier to author documentation sites—like
               this one.
 contents:
   doc:
