@@ -13,7 +13,7 @@
   "dependencies": {
     "@reach/router": "^1.2.1",
     "@riboseinc/aperis-doc-pages": "^1.0.0-pre9",
-    "@riboseinc/react-static-plugin-aperis-doc-pages": "^1.0.17",
+    "@riboseinc/react-static-plugin-aperis-doc-pages": "^1.0.18",
     "axios": "^0.19.0",
     "chroma-js": "^2.1.0",
     "react": "^16.9.0",
