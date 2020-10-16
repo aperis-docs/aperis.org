@@ -9,8 +9,8 @@ contents:
           - type: text
             text: >-
               Aperis Paneron extension allows to author documentation page
-              structure and contents with a GUI, and to quickly set up
-              react-static + GHA integration for deploying the site.
+              structure and contents with a graphical user interface, and to
+              quickly set up site deployment using GitHub actions.
       - type: figure
         content:
           - type: image
