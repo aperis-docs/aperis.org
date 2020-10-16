@@ -77,10 +77,8 @@ contents:
                 content:
                   - type: text
                     text: >-
-                      Paneron extension that allows authors to provide
-                      documentation data, and simplifies automated static site
-                      build setup through use of react-static and GitHub
-                      actions: see 
+                      Paneron extension for authoring documentation data and
+                      streamlined automated static site build setup: see 
                   - type: link
                     attrs:
                       schemaID: web
@@ -92,3 +90,13 @@ contents:
                         text: Paneron extension docs
                   - type: text
                     text: .
+              - type: admonition
+                attrs:
+                  type: tip
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          If you are documentation writer, this is where you
+                          would want to start.
