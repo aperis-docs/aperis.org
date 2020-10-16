@@ -21,7 +21,7 @@ contents:
             content:
               - type: text
                 text: >-
-                  How this site looks like when open in Paneron with Aperis
+                  This site, as it appears in Paneron with Aperis site editor
                   extension.
       - type: section
         attrs:
