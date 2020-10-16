@@ -51,6 +51,7 @@ contents:
               - type: text
                 text: >-
                   You can create an Aperis site by starting a repository in
-                  Paneron, and selecting Aperis site as repository type.
+                  Paneron, and selecting “Aperis documentation site” as
+                  repository type.
 media:
   - Screenshot 2020-10-15 at 2.32.18 PM.png
