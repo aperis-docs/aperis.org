@@ -22,7 +22,7 @@ contents:
               - type: text
                 text: >-
                   How this site looks like when open in Paneron with Aperis
-                  extension
+                  extension.
       - type: section
         attrs:
           id: getting-started
