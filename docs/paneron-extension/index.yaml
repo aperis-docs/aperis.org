@@ -11,6 +11,21 @@ contents:
               Aperis Paneron extension allows to author documentation page
               structure and contents with a graphical user interface, and to
               quickly set up site deployment using GitHub actions.
+      - type: admonition
+        attrs:
+          type: seealso
+        content:
+          - type: paragraph
+            content:
+              - type: link
+                attrs:
+                  schemaID: web
+                  reference: 'https://github.com/paneron/extension-aperis-site'
+                  hRef: 'https://github.com/paneron/extension-aperis-site'
+                  title: ''
+                content:
+                  - type: text
+                    text: Source code on GitHub
       - type: figure
         content:
           - type: image
