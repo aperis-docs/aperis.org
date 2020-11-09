@@ -46,6 +46,6 @@ contents:
               title: ''
             content:
               - type: text
-                text: source code on GitHub
+                text: code on GitHub
           - type: text
             text: .
