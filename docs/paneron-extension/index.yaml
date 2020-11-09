@@ -17,6 +17,8 @@ contents:
         content:
           - type: paragraph
             content:
+              - type: text
+                text: 'Extension’s '
               - type: link
                 attrs:
                   schemaID: web
@@ -25,7 +27,9 @@ contents:
                   title: ''
                 content:
                   - type: text
-                    text: Source code on GitHub
+                    text: source code on GitHub
+              - type: text
+                text: .
       - type: figure
         content:
           - type: image
