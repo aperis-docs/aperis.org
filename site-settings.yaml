@@ -1,3 +1,4 @@
 title: Aperis documentation
 urlPrefix: ''
 footerBannerLink: 'https://open.ribose.com/'
+deploymentSetup: awsGHA
