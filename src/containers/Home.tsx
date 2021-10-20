@@ -1,11 +1,18 @@
 /** @jsx jsx */
 
 import { jsx, css } from '@emotion/react'
+import styled from '@emotion/styled'
 import React from 'react'
 import { ItemTitle, PageTitle } from '@riboseinc/paneron-website-common/elements/misc'
-import { Card, CardActionLinkExternal, CardActions, CardBody, CardHeader, CardStack } from '@riboseinc/paneron-website-common/elements/cards'
 import { BIG_SCREEN_BREAKPOINT_PX } from '@riboseinc/paneron-website-common/ui-constants'
-import styled from '@emotion/styled'
+import {
+  Card,
+  CardActionLinkExternal,
+  CardActions,
+  CardBody,
+  CardHeader,
+  CardStack,
+} from '@riboseinc/paneron-website-common/elements/cards'
 
 
 const UL = styled.ul`
