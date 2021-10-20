@@ -64,7 +64,7 @@ export default function () {
           <CardBody allowWrap>
             <UL>
               <li>Download Paneron Desktop</li>
-              <li>Start a dataset using Aperis extension</li>
+              <li>Start a dataset using Aperis extension, or open an existing Aperis dataset</li>
             </UL>
           </CardBody>
           <CardActions>
