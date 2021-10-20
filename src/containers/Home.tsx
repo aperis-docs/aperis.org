@@ -28,7 +28,7 @@ export default function () {
       <PageTitle>
         Aperis
         <br />
-        is&nbsp;an&nbsp;open&nbsp;project presentation&nbsp;site&nbsp;framework.
+        is&nbsp;an&nbsp;open&nbsp;project presentation&nbsp;site framework.
       </PageTitle>
       <Stack>
         <Card>
